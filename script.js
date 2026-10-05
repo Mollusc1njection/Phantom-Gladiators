@@ -1,6 +1,6 @@
 const USUARIO = "Mollusc1njection";               
 const REPOSITORIO = "Phantom-Gladiators";   
-const ARCHIVO = "PhantomGladiators-Setup.exe"; 
+const ARCHIVO = "PhantomGladiators.zip"; 
 const ARCHIVO_DLC = "PhantomGladiators-DLC.exe"; 
 
 const urlDescarga = `https://github.com/${USUARIO}/${REPOSITORIO}/releases/latest/download/${ARCHIVO}`;
